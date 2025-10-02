@@ -56,6 +56,16 @@
   <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
 </p>
+---
+
+<h3 align="left">📂 Projects:</h3>
+<p align="left">
+  <a href="https://shoeshop90.netlify.app"><img src="https://img.shields.io/badge/Shoe_Shop-React,JS-blue?style=for-the-badge"/></a>&nbsp;
+  <a href="https://profilemanager90.netlify.app"><img src="https://img.shields.io/badge/Profile_Manager-React,JS-purple?style=for-the-badge"/></a>&nbsp;
+  <a href="https://varenyamsingh.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-HTML,CSS,JS-green?style=for-the-badge"/></a>&nbsp;
+  <a href="https://nammayatri-clone90.netlify.app"><img src="https://img.shields.io/badge/Namma_Yatri-React,JS-orange?style=for-the-badge"/></a>&nbsp;
+  <a href="https://pixabayclone90.netlify.app"><img src="https://img.shields.io/badge/Pixabay_Clone-React,JS-red?style=for-the-badge"/></a>
+</p>
 
 
 ---

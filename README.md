@@ -65,4 +65,6 @@
 ---
 
 <h3 align="left">🐍 Contribution Snake:</h3>
-![snake gif](https://github.com/varenyamsingh/varenyamsingh/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/varenyamsingh/varenyamsingh/blob/output/github-contribution-grid-snake.svg)
+
+

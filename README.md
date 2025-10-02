@@ -71,14 +71,25 @@
 ---
 
 <h3 align="left">📊 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varenyamsingh&show_icons=true&locale=en" alt="varenyamsingh" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=varenyamsingh&show_icons=true&locale=en&layout=compact" alt="varenyamsingh" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varenyamsingh&" alt="varenyamsingh" />
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=varenyamsingh&show_icons=true&locale=en" 
+       alt="varenyamsingh" 
+       style="width: 350px; height: 180px;"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=varenyamsingh&show_icons=true&locale=en&layout=compact" 
+       alt="varenyamsingh" 
+       style="width: 350px; height: 180px;"/>
+
+</div>
+
+<div style="display: flex; justify-content: center; margin-top: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varenyamsingh&" 
+       alt="varenyamsingh" 
+       style="width: 720px; height: 180px; max-width: 100%;"/>
+</div>
+
 
 ---
 

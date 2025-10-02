@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://varenyamsingh.netlify.app/](https://varenyamsingh.netlify.app/)
 
-- 💬 Ask me about **React, JavaScript, TypeScript.**
+- 💬 Ask me about **react, javascript, typescript.**
 
 - 📫 How to reach me **varenyamsingh1330@gmail.com**
 
@@ -24,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varenyamsingh&show_icons=true&locale=en&layout=compact" alt="varenyamsingh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varenyamsingh&show_icons=true&locale=en" alt="varenyamsingh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varenyamsingh&" alt="varenyamsingh" /></p>

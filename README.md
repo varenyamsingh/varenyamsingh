@@ -111,27 +111,15 @@ React • TypeScript • JavaScript • Python • Node.js • FastAPI • REST 
 
 ---
 
-### 📊 GitHub Stats
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=varenyamsingh&show_icons=true&locale=en"
-           alt="GitHub Stats"
-           width="350"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=varenyamsingh&show_icons=true&locale=en&layout=compact"
-           alt="Top Languages"
-           width="350"/>
-    </td>
-  </tr>
-</table>
+<h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varenyamsingh&hide_border=true"
-       alt="GitHub Streak"
-       width="720"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=varenyamsingh&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varenyamsingh&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=varenyamsingh&theme=transparent&hide_border=true" />
 </p>
 
 ---

@@ -1,102 +1,146 @@
 <h1 align="center">Hi 👋, I'm Varenyam Singh</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=varenyamsingh&label=Profile%20views&color=0e75b6&style=flat" alt="varenyamsingh" /> 
+<h3 align="center">AI Engineer | Full-Stack Developer | Problem Solver</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=varenyamsingh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=varenyamsingh" alt="varenyamsingh" />
-  </a> 
-</p>
-
-- 🌱 I’m currently learning **Next.js** and **Node.js**  
-- 👨‍💻 All of my projects are available at [Portfolio](https://varenyamsingh.netlify.app/)  
-- 💬 Ask me about **React, JavaScript, and TypeScript**  
-- 📫 Reach me at **varenyamsingh1330@gmail.com**  
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+### 👨‍💻 About Me
+
+* 🔭 Currently focused on **AI Engineering, Generative AI & Voice AI**
+* 🧠 Building applications using **LLMs, RAG, LangChain & LangGraph**
+* 🎙️ Exploring **Conversational AI, STT, TTS, VAD & LiveKit**
+* 💻 Full-Stack development with **React, TypeScript, Python & Node.js**
+* 🧩 Passionate about **Problem Solving & Data Structures**
+* 🚀 Interested in building scalable AI-powered products
+
+---
+
+### 💬 Ask Me About
+
+**AI / GenAI:**
+LangChain • LangGraph • RAG • LLMs • Prompt Engineering • Tool Calling • Vector Databases
+
+**Voice AI:**
+LiveKit • STT / ASR • TTS • VAD • Endpointing • Conversational AI
+
+**Development:**
+React • TypeScript • JavaScript • Python • Node.js • FastAPI • REST APIs
+
+---
+
+### 🤝 Connect With Me
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/varenyam-singh-baghel-a1bb40228" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/varenyam-singh-baghel-a1bb40228" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
-  <a href="https://www.behance.net/varenyamsingh" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40" />
+  <a href="https://leetcode.com/u/varenyamsingh/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
   </a>
-  <a href="https://leetcode.com/u/varenyamsingh/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  <a href="https://www.behance.net/varenyamsingh" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">Languages & Tools:</h3>
+### 🛠️ Languages & Tools
+
+#### 🤖 AI / Generative AI
+
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> &nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> &nbsp;
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Cursor-FF5722?style=for-the-badge&logo=cursor&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-6A1B9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tool_Calling-00897B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge"/>
 </p>
----
 
-<h3 align="left">📂 Projects:</h3>
+#### 🎙️ Voice AI
+
 <p align="left">
-  <a href="https://shoeshop90.netlify.app"><img src="https://img.shields.io/badge/Shoe_Shop-React,JS-blue?style=for-the-badge"/></a>&nbsp;
-  <a href="https://profilemanager90.netlify.app"><img src="https://img.shields.io/badge/Profile_Manager-React,JS-purple?style=for-the-badge"/></a>&nbsp;
-  <a href="https://varenyamsingh.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-HTML,CSS,JS-green?style=for-the-badge"/></a>&nbsp;
-  <a href="https://nammayatri-clone90.netlify.app"><img src="https://img.shields.io/badge/Namma_Yatri-React,JS-orange?style=for-the-badge"/></a>&nbsp;
-  <a href="https://pixabayclone90.netlify.app"><img src="https://img.shields.io/badge/Pixabay_Clone-React,JS-red?style=for-the-badge"/></a>
+  <img src="https://img.shields.io/badge/Voice_AI-6A1B9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LiveKit-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STT%20%2F%20ASR-3949AB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TTS-00897B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VAD-546E7A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Conversational_AI-7B1FA2?style=for-the-badge"/>
 </p>
 
+#### 💻 Programming & Development
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+#### 🗄️ Databases & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+### 🚀 Featured Projects
+
+* 🤖 **AI Study Companion** — RAG-based learning assistant using React, FastAPI, LangChain, ChromaDB and LLMs
+* 🎙️ **Voice AI / LiveKit Project** — Real-time voice pipeline with LiveKit, VAD and speech recognition
+* 🧠 **Interview Buddy** — AI-powered interview preparation platform
+* 📊 **Data Analyzer** — Data analysis and reporting platform using Python, Flask, Pandas and MySQL
+
+---
+
+### 📊 GitHub Stats
 
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=varenyamsingh&show_icons=true&locale=en" 
-           alt="GitHub Stats" 
-           width="350" height="180"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=varenyamsingh&show_icons=true&locale=en"
+           alt="GitHub Stats"
+           width="350"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=varenyamsingh&show_icons=true&locale=en&layout=compact" 
-           alt="Top Languages" 
-           width="350" height="180"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=varenyamsingh&show_icons=true&locale=en&layout=compact"
+           alt="Top Languages"
+           width="350"/>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varenyamsingh&" 
-       alt="GitHub Streak" 
-       width="720" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varenyamsingh&hide_border=true"
+       alt="GitHub Streak"
+       width="720"/>
 </p>
-
-
 
 ---
 
+### 📈 Contribution Graph
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varenyamsingh&theme=github-compact&hide_border=true"
+       alt="Contribution Graph"/>
+</p>
 
 

@@ -41,9 +41,6 @@ React • TypeScript • JavaScript • Python • Node.js • FastAPI • REST 
   <a href="https://leetcode.com/u/varenyamsingh/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
   </a>
-  <a href="https://www.behance.net/varenyamsingh" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40"/>
-  </a>
 </p>
 
 ---
@@ -114,12 +111,19 @@ React • TypeScript • JavaScript • Python • Node.js • FastAPI • REST 
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varenyamsingh&show_icons=true&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varenyamsingh&layout=compact&theme=transparent&hide_border=true" />
+  <a href="https://github.com/varenyamsingh">
+    <img height="180"
+         src="https://github-readme-stats.vercel.app/api?username=varenyamsingh&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  </a>
+  <a href="https://github.com/varenyamsingh">
+    <img height="180"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=varenyamsingh&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=varenyamsingh&theme=transparent&hide_border=true" />
+  <img width="720"
+       src="https://streak-stats.demolab.com/?user=varenyamsingh&theme=transparent&hide_border=true" />
 </p>
 
 ---

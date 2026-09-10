@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Varenyam Singh</h1>
 
-<h3 align="center">AI Engineer | Full-Stack Developer | Problem Solver</h3>
+<h3 align="center">Software Engineer | Product-Focused Full-Stack AI Developer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=varenyamsingh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />

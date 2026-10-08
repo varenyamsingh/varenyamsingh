@@ -27,7 +27,7 @@ LangChain • LangGraph • RAG • LLMs • Prompt Engineering • Tool Calling
 **Voice AI:**
 LiveKit • STT / ASR • TTS • VAD • Endpointing • Conversational AI
 
-**Development:**
+**Full Stack Development:**
 React • TypeScript • JavaScript • Python • Node.js • FastAPI • REST APIs
 
 ---

@@ -129,15 +129,17 @@ React • TypeScript • JavaScript • Python • Node.js • FastAPI • REST 
 ---
 
 
+
 ### 📈 Contribution Graph
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/varenyamsingh/varenyamsingh/output/ambient-dark.svg"
+    src="https://raw.githubusercontent.com/varenyamsingh/varenyamsingh/output/comet-graph.svg"
     alt="Animated GitHub Contribution Graph"
     width="100%"
   />
 </p>
+
 
 
 

@@ -1,20 +1,30 @@
 
-name: Update Comet Contribution Graph
+name: Generate Animated Contribution Graph
 
 on:
   schedule:
-    - cron: "0 3 * * 1"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  render:
+  generate:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v6
 
-      - uses: kiaquila/comet-contribution-graph@v2
+    steps:
+      - name: Generate animated SVGs
+        uses: crosscore/contribution-gallery@v1
         with:
-          username: varenyamsingh
+          github_user_name: varenyamsingh
+          outputs: |
+            dist/ambient-dark.svg?palette=dark&mode=ambient
+
+      - name: Publish graph
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

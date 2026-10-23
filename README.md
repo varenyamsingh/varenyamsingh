@@ -130,9 +130,14 @@ React • TypeScript • JavaScript • Python • Node.js • FastAPI • REST 
 
 ### 📈 Contribution Graph
 
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varenyamsingh&theme=github-compact&hide_border=true"
-       alt="Contribution Graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=varenyamsingh&bg_color=00000000&color=58A6FF&line=2F81F7&point=FFFFFF&area=true&hide_border=true"
+    alt="GitHub Contribution Activity Graph"
+    width="100%"
+  />
 </p>
+
 
 

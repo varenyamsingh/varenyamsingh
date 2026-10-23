@@ -128,16 +128,17 @@ React • TypeScript • JavaScript • Python • Node.js • FastAPI • REST 
 
 ---
 
-### 📈 Contribution Graph
 
+### 📈 Contribution Graph
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=varenyamsingh&bg_color=00000000&color=58A6FF&line=2F81F7&point=FFFFFF&area=true&hide_border=true"
-    alt="GitHub Contribution Activity Graph"
+    src="https://raw.githubusercontent.com/varenyamsingh/varenyamsingh/comet-graph/comet.svg"
+    alt="Varenyam's GitHub Contribution Graph"
     width="100%"
   />
 </p>
+
 
 
 
